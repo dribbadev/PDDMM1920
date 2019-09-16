@@ -8,3 +8,5 @@ let whereIsWaldo = ["Whitebeard", "Wood", "Whitebeard", "Wilma", "Wilma", "Wood"
     - User for-in loops rather than regular for loops.
     - Structure the code as good as you can.
  */
+
+test

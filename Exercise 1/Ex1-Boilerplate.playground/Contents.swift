@@ -5,6 +5,6 @@ let whereIsWaldo = ["Whitebeard", "Wood", "Whitebeard", "Wilma", "Wilma", "Wood"
 /* Ex1. Implement a Where is Waldo algorithm.
     - Show the user the position of Waldo in the array.
     - Show the user how many of every characters are in the array (Sorted by number of appearances)
-    - User for-in loops rather than regular for loops.
+    - Use for-in loops rather than regular for loops.
     - Structure the code as good as you can.
  */
